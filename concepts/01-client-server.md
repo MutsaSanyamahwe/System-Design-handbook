@@ -1,7 +1,7 @@
 # Client-Server Architecture
 
 ---
-## 1. The problem
+> ## 1. The problem
 Imagine every computer on the internet trying to communicate directly with every other computer.  
 
 If you wanted to order an Uber, your phone would somehow need to know:
@@ -32,7 +32,7 @@ This problem led to Client-Server Architecture.
 
 
 
-## 2. The Solution
+> ## 2. The Solution
 Instead of every device talking directly to every other device, introduce a central machine called a server.
 
 This server becomes responsible for:
@@ -57,7 +57,7 @@ Every interaction flows through the server.
 
 ---
 
-## 3. How it works
+> ## 3. How it works
 A client is any application used by the user.
 
 Examples include:
@@ -123,7 +123,7 @@ The server always remains the authority.
 ![Client-Server Architecture](../Images/Request-and-Response-Cycle.webp)
 
 ---
-## Stateless Communication
+> ## Stateless Communication
 
 Most client-server systems are stateless.
 
@@ -252,7 +252,7 @@ Large companies operate thousands of servers worldwide.
 
 ---
 
-## 6. Interview Questions
+> ## 6. Interview Questions
 
 **What is Client-Server Architecture?**
 A computing model where clients send requests to centralized servers that process those requests and return responses.
@@ -281,7 +281,7 @@ No. Logically, it acts as one server, but in production it often consists of man
 Because the server is trusted and controlled by the application owner. Keeping business logic on the server prevents users from bypassing rules, protects sensitive operations, and ensures all clients behave consistently.
 
 ---
-### Key Takeaways
+> ## Key Takeaways
 - Client-server architecture separates user interaction from application processing.
 - Clients focus on presenting information and collecting input.
 - Servers manage business logic, security, and data.
