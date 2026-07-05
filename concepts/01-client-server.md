@@ -289,6 +289,23 @@ Because the server is trusted and controlled by the application owner. Keeping b
 - The server is the system's source of truth.
 - This architecture is the foundation for almost every modern web and mobile application.
 
+## What's Next?
+
+Now that we've established how clients communicate with servers, an important question arises:
+
+> **How do we know if our system is actually performing well?**
+
+Imagine opening Uber and waiting 10 seconds for nearby drivers to appear, or Netflix taking a minute to start a movie. Even though both use a client-server architecture, the user experience would be poor.
+
+To evaluate a system's performance, engineers measure two key metrics:
+
+- Latency – How long does a single request take to complete?
+- Throughput – How many requests can the system handle over a period of time?
+
+These metrics form the foundation for understanding system performance and will guide many of the scaling techniques you'll learn later, such as caching, load balancing, and CDNs.
+
+**Next: Latency and Throughput**
+
 
 
 
