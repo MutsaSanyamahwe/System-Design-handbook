@@ -206,7 +206,19 @@ Without DNS, users couldn't simply type `amazon.com` or `uber.com`; they'd need 
 - DNS is usually the first network service involved whenever a user visits a website.
 
 
+## Hands-On
 
+Understanding how DNS works conceptually is only half the story.
+
+Once you've deployed an application, you'll need to configure DNS records so users can access your application using a custom domain instead of an IP address or provider-generated URL.
+
+Continue to **[DNS in Practice](../hands-on/DNS-in-practice.md)** to learn how DNS is configured in real-world deployments, including:
+
+- Deploying an application to a cloud provider
+- Registering a domain name
+- Configuring A and CNAME records
+- DNS propagation
+- Why production systems usually point DNS to a Load Balancer instead of directly to a server
 
 
 
