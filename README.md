@@ -116,7 +116,7 @@ By understanding the problem first, the solution becomes much easier to remember
 - [x] [Client-Server Architecture](concepts/01-client-server.md)
 - [x] [Latency & Throughput](concepts/02-Latency-&-throughput.md)
 - [x] [Scalability](concepts/03-Scalability.md)
-- [ ] DNS
+- [x] [DNS](concepts/05-DNS.md)
 - [ ] CDN
 - [ ] Reverse Proxy
 - [ ] Load Balancer
