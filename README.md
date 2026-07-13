@@ -118,7 +118,8 @@ By understanding the problem first, the solution becomes much easier to remember
 - [x] [Scalability](concepts/03-Scalability.md)
 - [x] [DNS](concepts/05-DNS.md)
 - [x] [HTTP & HTTPS](concepts/06-HTTP-&-HTTPS.md)
-- [ ] CDN
+- [x] [TCP & UDP](concepts/07-TCP-&-UDP.md)
+- [x] [CDN](concepts/08-CDNs.md)
 - [ ] Reverse Proxy
 - [ ] Load Balancer
 - [ ] API Gateway
