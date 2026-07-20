@@ -120,7 +120,7 @@ By understanding the problem first, the solution becomes much easier to remember
 - [x] [HTTP & HTTPS](concepts/06-HTTP-&-HTTPS.md)
 - [x] [TCP & UDP](concepts/07-TCP-&-UDP.md)
 - [x] [CDN](concepts/08-CDNs.md)
-- [ ] Reverse Proxy
+- [x] [Reverse Proxy](concepts/08-Reverse-Proxy.md)
 - [ ] Load Balancer
 - [ ] API Gateway
 - [ ] REST
@@ -146,7 +146,7 @@ By understanding the problem first, the solution becomes much easier to remember
 
 - [x] [DNS in Practice](hands-on/DNS-in-practice.md)
 - [x] [HTTPS in Practice](hands-on/HTTPS-in-practice.md)
-- [ ] Reverse Proxy with NGINX
+- [x] [Reverse Proxy with NGINX](hands-on/Reverse-Proxy-in-practice.md)
 - [ ] Load Balancer with NGINX
 - [ ] Redis Caching
 - [ ] Dockerizing an Application
