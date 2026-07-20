@@ -121,7 +121,7 @@ By understanding the problem first, the solution becomes much easier to remember
 - [x] [TCP & UDP](concepts/07-TCP-&-UDP.md)
 - [x] [CDN](concepts/08-CDNs.md)
 - [x] [Reverse Proxy](concepts/09-Reverse-Proxy.md)
-- [ ] Load Balancer
+- [x] [Load Balancer](concepts/10-Load-Balancer.md)
 - [ ] API Gateway
 - [ ] REST
 - [ ] GraphQL
@@ -147,7 +147,7 @@ By understanding the problem first, the solution becomes much easier to remember
 - [x] [DNS in Practice](hands-on/DNS-in-practice.md)
 - [x] [HTTPS in Practice](hands-on/HTTPS-in-practice.md)
 - [x] [Reverse Proxy with NGINX](hands-on/Reverse-Proxy-in-practice.md)
-- [ ] Load Balancer with NGINX
+- [x] [Load Balancer with NGINX](hands-on/Load-Balancer-NGINX-in-practice.md)
 - [ ] Redis Caching
 - [ ] Dockerizing an Application
 - [ ] Kubernetes Deployment
