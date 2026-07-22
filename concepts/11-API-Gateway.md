@@ -120,7 +120,7 @@ The client only knows the gateway.
 |SSL/TSL Termination | Handle HTTPS |
 |API Versioning | Support multiple API versions |
 
-![Alt API-09](../Images/09-API-G.jfif)
+![Alt API-09](../Images/09-API-G.png)
 
 ---
 
